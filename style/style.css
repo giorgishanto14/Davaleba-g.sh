@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+header{
+    padding: 60px 88px 16px 82px;
+}
+h1 a{
+    font-size: 20px;
+    color: black;
+    
+}
+li a{
+    font-size: 20px;
+    color: black;
+}
+ul{
+    
+    display: flex;
+    justify-content: space-between;
+    width: 563px;
+    
+}
